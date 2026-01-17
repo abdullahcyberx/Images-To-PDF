@@ -46,7 +46,12 @@ No installations. No sign-ups. No data sharing.
 2. Upload or drag images  
 3. Reorder images if needed  
 4. Click **Convert to PDF**  
-5. Download your PDF  
+5. Download your PDF
+## 📸 Screenshots
+
+![Home Page](screenshots/home.png)
+![Image Preview](screenshots/preview.png)
+![PDF Download](screenshots/download.png)
 
 
 
