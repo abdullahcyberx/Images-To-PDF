@@ -50,8 +50,8 @@ No installations. No sign-ups. No data sharing.
 ## 📸 Screenshots
 
 ![Home Page](home.png)
-![Image Preview](screenshots/preview.png)
-![PDF Download](screenshots/download.png)
+![Image Preview](preview.png)
+![PDF Download](download.png)
 
 
 
