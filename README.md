@@ -49,7 +49,7 @@ No installations. No sign-ups. No data sharing.
 5. Download your PDF
 ## 📸 Screenshots
 
-![Home Page](screenshots/home.png)
+![Home Page](home.png)
 ![Image Preview](screenshots/preview.png)
 ![PDF Download](screenshots/download.png)
 
